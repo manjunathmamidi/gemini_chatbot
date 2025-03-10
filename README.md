@@ -67,4 +67,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
--   Hema Kalyan - [manjunathmamidi9@gmail.com](mailto:manjunathmamidi9@gmail.com)
+-   Mamidi Manjunath - [manjunathmamidi9@gmail.com](mailto:manjunathmamidi9@gmail.com)
